@@ -1,0 +1,12 @@
+Eduardo Portet Homework 6
+
+fourA
+	There are 26739138 words in this file!
+
+
+fourB
+	For part b, I got the following string "trCypBrDmegQNsSlkzJ6xfoUHAQiV w" and the processing time took 3.5h. With a faster algorithm it outputs the following longer string "lyKRh6C9WVOPdajUJNE7mSbQxIF1jTGZP9Qwe" in 2min.
+
+
+fourC
+	We made some adjustments before the deadline and couldn't obtain an answer, before running out of time. But we tested the code with sample txt files and it worked. :(
